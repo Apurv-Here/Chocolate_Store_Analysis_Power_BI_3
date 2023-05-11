@@ -21,7 +21,7 @@ SELECT * FROM sales
 WHERE boxes < 50;
 
 
-
+-- sample query
 
 
 
